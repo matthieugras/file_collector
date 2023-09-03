@@ -8,6 +8,7 @@
     <StripSymbols>true</StripSymbols>
     <PublishAot>true</PublishAot>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
   
   <ItemGroup>
