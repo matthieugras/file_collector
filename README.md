@@ -39,5 +39,7 @@ Most Windows versions updated over the past ten years should be compatible. Test
 `./collect-files "C:\Windows\System32\config" "C:\Users\Administrator" "D:\cool_files" --output files.zip`
 
 ## Microsoft Defender Demo
-https://github.com/matthieugras/file_collector/assets/35115728/1d80e312-d92e-48fa-b81e-7e8c568ce093
+https://github.com/matthieugras/file_collector/assets/35115728/3d9131aa-9479-47ec-8032-f0eb2323d887
+
+
 
